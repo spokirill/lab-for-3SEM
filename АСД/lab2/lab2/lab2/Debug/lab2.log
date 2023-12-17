@@ -1,0 +1,36 @@
+﻿Сборка начата 08.10.2023 17:44:27.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\givi\Documents\лабы 2курс\АСД\lab2\lab2\lab2\lab2.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "C:\Users\givi\Documents\лабы 2курс\АСД\lab2\lab2\Debug\".
+         Создание каталога "Debug\lab2.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\lab2.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\lab2.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt lab2.cpp
+         lab2.cpp
+     1>C:\Users\givi\Documents\лабы 2курс\АСД\lab2\lab2\lab2\lab2.cpp(95,23): warning C4018: <: несоответствие типов со знаком и без знака
+     1>C:\Users\givi\Documents\лабы 2курс\АСД\lab2\lab2\lab2\lab2.cpp(116,23): warning C4018: <: несоответствие типов со знаком и без знака
+     1>C:\Users\givi\Documents\лабы 2курс\АСД\lab2\lab2\lab2\lab2.cpp(134,27): warning C4018: <: несоответствие типов со знаком и без знака
+     1>C:\Users\givi\Documents\лабы 2курс\АСД\lab2\lab2\lab2\lab2.cpp(174,27): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\givi\Documents\лабы 2курс\АСД\lab2\lab2\Debug\lab2.exe" /INCREMENTAL /ILK:"Debug\lab2.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\givi\Documents\лабы 2курс\АСД\lab2\lab2\Debug\lab2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\givi\Documents\лабы 2курс\АСД\lab2\lab2\Debug\lab2.lib" /MACHINE:X86 Debug\lab2.obj
+         lab2.vcxproj -> C:\Users\givi\Documents\лабы 2курс\АСД\lab2\lab2\Debug\lab2.exe
+       FinalizeBuildStatus:
+         Файл "Debug\lab2.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab2.tlog\lab2.lastbuildstate".
+     1>Сборка проекта "C:\Users\givi\Documents\лабы 2курс\АСД\lab2\lab2\lab2\lab2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\givi\Documents\лабы 2курс\АСД\lab2\lab2\lab2\lab2.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\givi\Documents\лабы 2курс\АСД\lab2\lab2\lab2\lab2.cpp(95,23): warning C4018: <: несоответствие типов со знаком и без знака
+         C:\Users\givi\Documents\лабы 2курс\АСД\lab2\lab2\lab2\lab2.cpp(116,23): warning C4018: <: несоответствие типов со знаком и без знака
+         C:\Users\givi\Documents\лабы 2курс\АСД\lab2\lab2\lab2\lab2.cpp(134,27): warning C4018: <: несоответствие типов со знаком и без знака
+         C:\Users\givi\Documents\лабы 2курс\АСД\lab2\lab2\lab2\lab2.cpp(174,27): warning C4018: <: несоответствие типов со знаком и без знака
+
+    Предупреждений: 4
+    Ошибок: 0
+
+Прошло времени 00:00:01.83
